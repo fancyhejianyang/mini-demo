@@ -1,11 +1,12 @@
 const config = {
   projectName: 'mini-demo',
   date: '2023-12-12',
-  designWidth: 750,
+  designWidth: 430,
   deviceRatio: {
     640: 2.34 / 2,
     750: 1,
-    828: 1.81 / 2
+    828: 1.81 / 2,
+    430: 3.49 / 2
   },
   sourceRoot: 'src',
   outputRoot: 'dist',
